@@ -42,7 +42,7 @@ else{
     alert(moth + "/" + d8 + "/" + year);
     alert(h + ":" + minute);
     
-   setTimeout(startTime, 1000);
+   setTimeout(startTime, 60000);
   }
 
   
