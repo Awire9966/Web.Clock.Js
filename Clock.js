@@ -44,5 +44,5 @@ else{
     
    setTimeout(startTime, 1000);
   }
-  startTime.call();
+  startTime()
   
